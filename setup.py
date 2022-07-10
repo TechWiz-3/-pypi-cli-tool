@@ -11,7 +11,7 @@ setup(
     scripts=['helloworld'],
     entry_points={
         'console_scripts': [
-            'hello--world = timmins:helloworld',
+            'hello-world=src:main',
         ]
     }
 )
