@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/helloworld.py
+src/helloworld_zacthewise.egg-info/PKG-INFO
+src/helloworld_zacthewise.egg-info/SOURCES.txt
+src/helloworld_zacthewise.egg-info/dependency_links.txt
+src/helloworld_zacthewise.egg-info/entry_points.txt
+src/helloworld_zacthewise.egg-info/top_level.txt

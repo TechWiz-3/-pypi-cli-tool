@@ -1,0 +1,5 @@
+#!python
+
+from src.helloworld import main
+
+main()
